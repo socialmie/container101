@@ -15,5 +15,5 @@ Welcome to Dinohead's Cloud Native Application 101 training. We are going to foc
       - [Installation and Configuration](docker/compose/index.md)
       - [Hello World](docker/compose/gettingstarted.md)
       - [Commands](docker/compose/gettingstarted.md)
-  - [Deploy Simple Web Server](docker/Testing/index.md)
+  - [Deploy Simple Web Server](docker/testing/index.md)
   - [Deploy 2 Applications from the DinoForce "Sec" Platform](dinoforce_sec_platform/index.md)
