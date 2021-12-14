@@ -24,16 +24,16 @@ The [Dinoforce](https://dinoforce.com) "DevSecOps" Platform contains all of the 
 
   3. Run Start.sh inside the Keycloak-v12.0.3 Directory.  This will run more docker-compose to download the Keycloak and Postgres Containers.  It will also run them as soon as they are downloaded.
 
-    ```shell
-    cd Keycloak-v12.0.3
-    sudo ./start.sh
-    ```
+  ```shell
+  cd Keycloak-v12.0.3
+  sudo ./start.sh
+  ```
 
   4. While waiting for the containers to finish up, run the following command to view the containers running:
 
-    ```shell
-    sudo docker ps
-    ```
+  ```shell
+  sudo docker ps
+  ```
 
 ## Keycloak Configuration
 We will setup Users, Theme, Password Policy, Roles & Disable SSL
