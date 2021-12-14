@@ -12,15 +12,15 @@ The [Dinoforce](https://dinoforce.com) "DevSecOps" Platform contains all of the 
 
   1. Download Packaged Zip File
 
-     ```shell
-     sudo curl -L https://github.com/DINOFORCE-REPO/Training/releases/download/Training/Keycloak-v12.0.3.zip -O
-     ```
+   ```shell
+   sudo curl -L https://github.com/DINOFORCE-REPO/Training/releases/download/Training/Keycloak-v12.0.3.zip -O
+   ```
 
   2. Unzip File
 
-    ```shell
-    unzip Keycloak-v12.0.3.zip
-    ```
+  ```shell
+  unzip Keycloak-v12.0.3.zip
+  ```
 
   3. Run Start.sh inside the Keycloak-v12.0.3 Directory.  This will run more docker-compose to download the Keycloak and Postgres Containers.  It will also run them as soon as they are downloaded.
 
